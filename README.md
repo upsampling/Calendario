@@ -1,5 +1,5 @@
 #Backend MERN - Calendar
 
-Backend que cree en mi curso de React: de cero a experto
+Backend y Fronend que cree en mi curso de React
 
 Erasmo de Jesús Casas
